@@ -18,3 +18,6 @@ source ~/.bashrc
 ```
 
 
+Dicas para documentar histórico de testes e configurações:
+
+Use '#'  para iniciar um comentário. Comentários são bem vindos para destacar o início e final de uma configuração ou teste. Também é útil para destacar algum parâmetro importante. 
